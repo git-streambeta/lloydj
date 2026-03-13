@@ -10,8 +10,6 @@ bidmachine.io,1,DIRECT
 
 bidmachine.io,466,DIRECT
 
-facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
-
 #Add other networks if applicable
 
 #Resellers
